@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <IntegerNet_SolrCategorySwitch>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <IntegerNet_Solr/>
+            </depends>
+        </IntegerNet_SolrCategorySwitch>
+    </modules>
+</config>

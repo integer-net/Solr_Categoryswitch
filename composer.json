@@ -1,0 +1,6 @@
+{
+  "name": "integer_net/solr_categoryswitch",
+  "type": "magento-module",
+  "description": "Exclude certain categories from being delivered by Solr",
+  "homepage": "https://github.com/integer-net/Solr_Categoryswitch"
+}
